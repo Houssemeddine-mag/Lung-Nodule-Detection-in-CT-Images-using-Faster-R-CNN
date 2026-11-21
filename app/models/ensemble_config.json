@@ -1,0 +1,1 @@
+{"single_class": true, "thr_frcnn": 0.6500000000000001, "thr_yolo": 0.2, "yolo_cfg": "s640", "yolo_imgsz": 640}
