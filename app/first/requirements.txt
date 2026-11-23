@@ -1,0 +1,7 @@
+torch
+torchvision
+streamlit
+ensemble-boxes
+pillow
+numpy
+pandas

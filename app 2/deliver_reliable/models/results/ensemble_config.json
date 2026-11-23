@@ -1,0 +1,18 @@
+{
+  "single_class": true,
+  "k_folds": 5,
+  "frcnn_input_size": 832,
+  "rfdetr_resolution": 576,
+  "wbf_weights_rfdetr_frcnn": [
+    1.5,
+    1.0
+  ],
+  "thr_f1_opt": 0.15,
+  "thr_low_fp": 0.25,
+  "tta_modes": [
+    "none",
+    "h",
+    "v",
+    "hv"
+  ]
+}
